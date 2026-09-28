@@ -37,11 +37,6 @@ The content of the procedure section will vary considerably depending on the nat
    .. include:: example_code_review.rst
 
 
-.. dropdown:: ✅ Validation Procedure
-
-   .. include:: example_validation.rst
-
-
 .. raw:: html
 
    <script>

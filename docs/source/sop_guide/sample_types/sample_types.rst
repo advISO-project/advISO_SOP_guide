@@ -44,11 +44,6 @@ Key points to cover include:
    .. include:: example_code_review.rst
 
 
-.. dropdown:: ✅ Validation Procedure
-
-   .. include:: example_validation.rst
-
-
 .. raw:: html
 
    <script>

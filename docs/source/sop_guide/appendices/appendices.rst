@@ -31,12 +31,6 @@ An optional *'Appendix'* section of an SOP can be used to provide supplementary 
    
    .. include:: example_code_review.rst
 
-
-.. dropdown:: ✅ Validation Procedure
-
-   .. include:: example_validation.rst
-
-
 .. raw:: html
 
    <script>

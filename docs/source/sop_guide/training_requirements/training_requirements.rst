@@ -34,11 +34,6 @@ The Training Requirements section of an SOP outlines what knowledge, skills, qua
    .. include:: example_code_review.rst
 
 
-.. dropdown:: ✅ Validation Procedure
-
-   .. include:: example_validation.rst
-
-
 .. raw:: html
 
    <script>

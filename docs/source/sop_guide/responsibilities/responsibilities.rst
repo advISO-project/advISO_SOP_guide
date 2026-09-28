@@ -41,11 +41,6 @@ Depending on the procedure, this section should describe:
    .. include:: example_code_review.rst
 
 
-.. dropdown:: ✅ Validation Procedure
-
-   .. include:: example_validation.rst
-
-
 .. raw:: html
 
    <script>

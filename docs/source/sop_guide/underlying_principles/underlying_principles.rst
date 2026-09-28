@@ -32,11 +32,6 @@ The underlying principles section of an SOP can be used to provide background in
    .. include:: example_code_review.rst
 
 
-.. dropdown:: ✅ Validation Procedure
-
-   .. include:: example_validation.rst
-
-
 .. raw:: html
 
    <script>

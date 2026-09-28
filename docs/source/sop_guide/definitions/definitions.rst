@@ -33,11 +33,6 @@ This section of an SOP should include definitions of scientific, technical, and 
    .. include:: example_code_review.rst
 
 
-.. dropdown:: ✅ Validation Procedure
-
-   .. include:: example_validation.rst
-
-
 .. raw:: html
 
    <script>

@@ -35,11 +35,6 @@ The *'Specimen Collection, Transport & Storage'* section of an SOP should outlin
    .. include:: example_code_review.rst
 
 
-.. dropdown:: ✅ Validation Procedure
-
-   .. include:: example_validation.rst
-
-
 .. raw:: html
 
    <script>

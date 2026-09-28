@@ -23,10 +23,6 @@ Throughout this guide we make use of a series of case studies to illustrate how 
 
    A procedure outlining best practices for updating bioinformatics pipelines and performing code review.
 
-.. dropdown:: ✅ Verification Procedure
-
-   A standard operating procedure for perfoming verification of bioinformatics pipelines prior to rollout.
-
 All of these case studies are loosely based on real procedures used within ISO accredited laboratories.
 
 ----------------

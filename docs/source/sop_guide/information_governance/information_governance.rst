@@ -44,11 +44,6 @@ The *'Information Governance'* section of an SOP should describe how information
    .. include:: example_code_review.rst
 
 
-.. dropdown:: ✅ Validation Procedure
-
-   .. include:: example_validation.rst
-
-
 .. raw:: html
 
    <script>
