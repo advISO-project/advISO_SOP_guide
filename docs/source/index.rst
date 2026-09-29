@@ -52,7 +52,7 @@ laboratories working toward ISO accreditation:
 
 -------------------------------------
 
-.. figure:: source/_static/partner_logos.png
+.. figure:: _static/partner_logos.png
         :align: center
         :width: 650px
 
