@@ -32,7 +32,7 @@ laboratories working toward ISO accreditation:
       Guidance for assessing competency of staff using competency frameworks.
       
       +++
-      `Go to Competency Guide <https://adviso-competency-guide.readthedocs.io/en/latest/>_`
+      `Go to Competency Guide <https://adviso-competency-guide.readthedocs.io/en/latest/>`_
 
    .. grid-item-card:: 📋 Validation Guide
       :class-card: sd-shadow-sm sd-border-primary
@@ -40,7 +40,7 @@ laboratories working toward ISO accreditation:
       Guidance for validating bioinformatics pipelines.
       
       +++
-      `Go to Validation Guide <https://adviso-validation-guide.readthedocs.io/en/latest/>_`
+      `Go to Validation Guide <https://adviso-validation-guide.readthedocs.io/en/latest/>`_
 
    .. grid-item-card:: 🔍 Audit Guide
       :class-card: sd-shadow-sm sd-border-primary
@@ -48,7 +48,7 @@ laboratories working toward ISO accreditation:
       Guidance on planning and conducting bioinformatics audits.
       
       +++
-      `Go to Audit Guide <https://adviso-audit-guide.readthedocs.io/en/latest/>_`
+      `Go to Audit Guide <https://adviso-audit-guide.readthedocs.io/en/latest/>`_
 
 .. toctree::
    :hidden:
