@@ -23,33 +23,32 @@ Other guides in this series
 This guide forms part of the advISO series of practical how-to resources for
 laboratories working toward ISO accreditation:
 
-.. grid:: 1
-   :gutter: 2
+.. grid:: 1 2 3 3
+   :gutter: 3
 
-   .. grid-item-card:: Competency assessment
-      :class-card: sd-bg-light sd-text-dark
-      :link: https://adviso-competency-guide.readthedocs.io/en/latest/
-      :link-type: url
-      :text-align: center
+   .. grid-item-card:: 🎓 Competency Guide
+      :class-card: sd-shadow-sm sd-border-primary
 
       Guidance for assessing competency of staff using competency frameworks.
+      
+      +++
+      :link:`Go to Competency Guide <https://adviso-competency-guide.readthedocs.io/en/latest/>`
 
-   .. grid-item-card:: Validating bioinformatics pipelines
-      :class-card: sd-bg-light sd-text-dark
-      :link: https://adviso-validation-guide.readthedocs.io/en/latest/
-      :link-type: url
-      :text-align: center
+   .. grid-item-card:: 📋 Validation Guide
+      :class-card: sd-shadow-sm sd-border-primary
 
-      How to validate bioinformatics pipelines for ISO accreditation.
+      Guidance for validating bioinformatics pipelines.
+      
+      +++
+      :link:`Go to Validation Guide <https://adviso-validation-guide.readthedocs.io/en/latest/>`
 
-   .. grid-item-card:: Performing bioinformatics audits
-      :class-card: sd-bg-light sd-text-dark
-      :link: https://adviso-audit-guide.readthedocs.io/en/latest/
-      :link-type: url
-      :text-align: center
+   .. grid-item-card:: 🔍 Audit Guide
+      :class-card: sd-shadow-sm sd-border-primary
 
       Guidance on planning and conducting bioinformatics audits.
-
+      
+      +++
+      :link:`Go to Audit Guide <https://adviso-audit-guide.readthedocs.io/en/latest/>`
 
 .. toctree::
    :hidden:
