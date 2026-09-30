@@ -11,7 +11,19 @@ The following pages have been developed to provide comprehensive guidance on the
 
 This guide explains in detail how an SOP should be structured and what content must be included to meet international requirements. It offers practical advice, examples, and frameworks that enable laboratories to create SOPs which not only comply with ISO standards but also serve as clear, reliable evidence of quality and competence.
 
-A :ref:`Glossary of ISO terms <glossary>` is also provided, offering definitions and bioinformatics-specific translations to facilitate clear communication and shared understanding between both wet lab and dry lab teams. This glossary is intended to bridge disciplinary language gaps and promote collaboration across different areas of expertise.
+---------------------------------------------------------------------------------------
+
+Glossary of ISO terms
+------------------------------
+
+As part of this guide, a glossary of ISO terms is provided, offering definitions and bioinformatics-specific translations to facilitate clear communication and shared understanding between wet lab and dry lab teams. It is intended to bridge disciplinary language gaps and promote collaboration across different areas of expertise.
+
+.. image:: _static/glossary_button_sop.png
+   :target: https://adviso-sop-guide.readthedocs.io/en/latest/glossary.html
+   :alt: advISO Glossary of ISO Terms
+   :width: 80%
+   :align: center
+   :class: guide-button
 
 ---------------------------------------------------------------------------------------
 
