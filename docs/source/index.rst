@@ -21,7 +21,7 @@ As part of this guide, a glossary of ISO terms is provided, offering definitions
 .. image:: _static/glossary_button_sop.png
    :target: https://adviso-sop-guide.readthedocs.io/en/latest/glossary.html
    :alt: advISO Glossary of ISO Terms
-   :width: 60%
+   :width: 70%
    :align: center
    :class: guide-button
 
