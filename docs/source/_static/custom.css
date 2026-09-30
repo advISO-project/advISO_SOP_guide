@@ -14,3 +14,9 @@ div.funding-box h3 {
   color: #1A2A6C !important;              /* Dark blue heading */
   font-weight: bold;
 }
+
+.wy-side-nav-search,
+.wy-nav-top {
+    background: #0b750a; /* dark green */
+}
+
