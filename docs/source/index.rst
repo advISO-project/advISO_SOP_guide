@@ -7,8 +7,6 @@ Welcome to the advISO SOP Writing Guide
 
    This guide is still under development. Please check back for updates, and feel free to provide feedback or suggestions via the `GitHub repository <https://github.com/advISO-project/advISO_SOP_guide/issues>`_.
 
-This guide has been produced as part of the Wellcome Trust-funded ISO in a Box project, which aims to support laboratories seeking ISO 15189 accreditation for clinical bioinformatics. The project is led by Cardiff University, in collaboration with Public Health Wales, Wellcome Sanger Institute, and the South African National Bioinformatics Institute.
-
 The following pages have been developed to provide comprehensive guidance on the writing and implementation of Standard Operating Procedures (SOPs) for organisations working toward accreditation under the ISO 15189 (medical laboratories) and ISO 17025 (testing and calibration laboratories) standards.
 
 This guide explains in detail how an SOP should be structured and what content must be included to meet international requirements. It offers practical advice, examples, and frameworks that enable laboratories to create SOPs which not only comply with ISO standards but also serve as clear, reliable evidence of quality and competence.
@@ -48,6 +46,11 @@ laboratories working toward ISO accreditation:
          :class: guide-button
 
 -------------------------------------
+
+Project partners
+-----------------
+
+This guide has been produced as part of the Wellcome Trust-funded ISO in a Box project, which aims to support laboratories seeking ISO 15189 accreditation for clinical bioinformatics. The project is led by Cardiff University, in collaboration with Public Health Wales, Wellcome Sanger Institute, South African National Bioinformatics Institute, and University of the Western Cape.
 
 .. figure:: _static/partner_logos.png
         :align: center
