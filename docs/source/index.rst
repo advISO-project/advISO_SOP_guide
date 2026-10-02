@@ -25,8 +25,8 @@ laboratories working toward ISO accreditation:
    .. grid-item::
 
       .. image:: _static/guide_series_button_horizontal.png
-         :target: https://adviso-glossary.readthedocs.io/en/latest/
-         :alt: advISO SOP Writing Guide
+         :target: https://adviso-guide-series.readthedocs.io/en/latest/
+         :alt: advISO Guide Series
          :width: 100%
          :align: center
          :class: guide-button
