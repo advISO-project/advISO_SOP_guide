@@ -6,8 +6,8 @@ project = 'advISO SOP Guide'
 copyright = 'advISO 2026'
 author = 'advISO'
 
-release = '1.0'
-version = '1.0.0'
+release = '0.1'
+version = '0.1.0'
 
 # -- General configuration ---------------------------------------------------
 
