@@ -2,8 +2,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'ISO in a Box'
-copyright = 'advISO 2025'
+project = 'advISO SOP Guide'
+copyright = 'advISO 2026'
 author = 'advISO'
 
 release = '1.0'
