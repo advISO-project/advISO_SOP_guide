@@ -3,7 +3,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'advISO SOP Guide'
-copyright = 'advISO 2026'
+copyright = '2026, advISO. Licensed under CC BY-NC-SA 4.0'
 author = 'advISO'
 
 release = '0.1'
@@ -65,3 +65,6 @@ html_theme_options = {
 # -- Options for EPUB output -------------------------------------------------
 
 epub_show_urls = 'footnote'
+
+# Licensing footer
+html_footer_path = ['_static']
