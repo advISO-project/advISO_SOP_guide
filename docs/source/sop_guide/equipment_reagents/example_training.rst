@@ -1,1 +1,0 @@
-This section is **not suitable** for this example. See example text for the :ref:`Resources & Tools <sop_guide_resources_tools>` section instead.

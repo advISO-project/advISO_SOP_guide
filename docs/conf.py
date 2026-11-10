@@ -3,28 +3,43 @@ import os
 import sys
 from datetime import date
 
-# Guide settings
+#
+# ============================================================================
+# GUIDE SETTINGS — edit these to configure your guide
+# ============================================================================
+
 guide_name = 'advISO SOP Writing Guide'
 author = 'advISO'
 copyright = '2026, licensed under CC BY-NC-SA 4.0'
 release = '0.1'
 version = '0.1.0'
+
 under_development = True
+
 guide_subtitle = 'SOP Guide'
+
 sidebar_color = '#3FA863'
+
 github_repo = 'https://github.com/advISO-project/advISO_SOP_guide'
 
 html_logo = 'source/_static/logo.png'
+
+
+# ============================================================================
+# Everything below here is Sphinx plumbing — you shouldn't need to change it.
+# ============================================================================
+
 project = guide_name
 
 exclude_patterns = [
     '_build',
-    'source/index.rst',
     'source/intro.md',
     'source/guide_series.md',
     'source/project_partners.md',
     'source/toc.md',
 ]
+
+# -- Extensions --------------------------------------------------------------
 
 extensions = [
     'myst_parser',
@@ -38,12 +53,14 @@ extensions = [
     'sphinx_tabs.tabs',
 ]
 
+# -- MyST (Markdown) configuration ------------------------------------------
+
 myst_enable_extensions = [
     'colon_fence',
     'substitution',
 ]
 
-today_fmt = '%Y-%m-%d'
+today_fmt = "%Y-%m-%d"
 
 myst_substitutions = {
     'guide_name': guide_name,
@@ -54,16 +71,25 @@ myst_substitutions = {
     'today_date': date.today().strftime(today_fmt),
 }
 
+# -- Intersphinx -------------------------------------------------------------
+
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
 }
 intersphinx_disabled_domains = ['std']
 
+# -- HTML output -------------------------------------------------------------
+
 templates_path = ['source/_templates']
 html_theme = 'sphinx_rtd_theme'
+
 html_static_path = ['source/_static']
-html_css_files = ['custom.css']
+
+html_css_files = [
+    'custom.css',
+]
+
 html_theme_options = {
     'logo_only': True,
     'display_version': False,
@@ -71,19 +97,21 @@ html_theme_options = {
     'navigation_depth': 3,
 }
 
+# -- EPUB output -------------------------------------------------------------
+
 epub_show_urls = 'footnote'
 
-# Generate guide-specific assets from the shared template artwork.
+# -- Build-time asset generation ---------------------------------------------
+
 sys.path.insert(0, os.path.dirname(__file__))
 from generate_logo import generate_logo
 from generate_buttons import generate_buttons
-
 generate_logo(guide_subtitle)
 generate_buttons(guide_subtitle, sidebar_color)
 
-css_path = os.path.join(os.path.dirname(__file__), 'source', '_static', 'custom.css')
-with open(css_path, 'w') as css_file:
-    css_file.write(f""".wy-side-nav-search,
+_css_path = os.path.join(os.path.dirname(__file__), 'source', '_static', 'custom.css')
+with open(_css_path, 'w') as _f:
+    _f.write(f""".wy-side-nav-search,
 .wy-nav-top {{
     background: {sidebar_color};
 }}
@@ -99,6 +127,7 @@ with open(css_path, 'w') as css_file:
 }}
 """)
 
+# -- Custom config values ----------------------------------------------------
 
 def setup(app):
     app.add_config_value('under_development', False, 'env')

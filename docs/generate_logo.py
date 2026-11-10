@@ -6,11 +6,11 @@ from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 
 FONT_CANDIDATES = [
-    '/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf',
+    '/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf',       # Linux / CI
     '/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf',
     '/usr/share/fonts/truetype/freefont/FreeSansBold.ttf',
-    '/System/Library/Fonts/Helvetica.ttc',
-    'C:/Windows/Fonts/arialbd.ttf',
+    '/System/Library/Fonts/Helvetica.ttc',                         # macOS
+    'C:/Windows/Fonts/arialbd.ttf',                                # Windows
 ]
 
 DEFAULT_SUBTITLE_COLOR = (23, 24, 23)
@@ -69,5 +69,4 @@ def generate_logo(subtitle, static_dir=None):
 
 if __name__ == '__main__':
     from conf import guide_subtitle
-
     generate_logo(guide_subtitle)
