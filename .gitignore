@@ -1,1 +1,5 @@
 source/build
+/docs/build/
+/docs/_build/
+/docs/source/_static/button_horizontal.png
+/docs/source/_static/button_website.png
