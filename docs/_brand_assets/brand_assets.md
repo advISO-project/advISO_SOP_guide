@@ -6,7 +6,9 @@ orphan: true
 
 Generated assets for **{{ guide_name }}**. These are built automatically from the `guide_subtitle` and `sidebar_color` settings in `conf.py`.
 
-Current settings: subtitle **"{{ guide_name }}"**, colour **#3FA863**.
+```{raw} html
+:file: _settings.html
+```
 
 ---
 
