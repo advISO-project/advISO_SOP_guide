@@ -6,7 +6,7 @@ Creating a one-size-fits-all SOP template would therefore lead to sections that 
 
 To overcome these challenges, we propose a modular approach to SOP writing (Figure 1). This approach recognises that while certain sections are universally applicable across most SOPs (e.g., Purpose, Scope, Responsibilities), other sections may only be relevant for specific types of procedures (e.g., Data Types for bioinformatics pipelines, Equipment & Reagents for laboratory protocols).
 
-```{image} ../images/SOP_building_blocks.png
+```{image} ../../_static/images/SOP_building_blocks.png
 :align: center
 :alt: Modular SOP Structure
 :width: 600px
