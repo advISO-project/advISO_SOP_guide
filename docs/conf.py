@@ -10,7 +10,7 @@ from datetime import date
 
 guide_name = 'advISO SOP Writing Guide'
 author = 'advISO'
-copyright = f'{author} 2026'
+copyright = f'{author} & contributors'
 release = '0.1'
 version = '0.1.0'
 
