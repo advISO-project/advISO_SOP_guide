@@ -18,7 +18,7 @@ under_development = True
 
 guide_subtitle = 'SOP Guide'
 
-sidebar_color = '#998731'
+sidebar_color = '#3A9E6B'
 
 github_repo = 'https://github.com/advISO-project/advISO_SOP_guide'
 
