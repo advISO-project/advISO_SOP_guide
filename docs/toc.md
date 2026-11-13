@@ -26,4 +26,5 @@ pages/sop_guide/results_reporting_authorisation/results_reporting_authorisation
 pages/sop_guide/record_management/record_management
 pages/sop_guide/appendices/appendices
 pages/sop_guide/change_history/change_history
+pages/contributors
 ```
