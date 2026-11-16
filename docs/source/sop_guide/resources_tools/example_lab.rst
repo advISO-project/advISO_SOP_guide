@@ -1,1 +1,0 @@
-This section is not suitable for laboratory procedures. Please use the :ref:`Equipment & Reagents <sop_guide_equipment_reagents>` section instead.
