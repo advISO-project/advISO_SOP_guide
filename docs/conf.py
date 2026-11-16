@@ -11,8 +11,8 @@ from datetime import date
 guide_name = 'advISO SOP Writing Guide'
 author = 'advISO'
 copyright = f'{author} & contributors'
-release = '0.1'
-version = '0.1.0'
+release = '0.2'
+version = '0.2.0'
 
 under_development = True
 
