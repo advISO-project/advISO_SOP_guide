@@ -9,8 +9,8 @@ from datetime import date
 # ============================================================================
 
 guide_name = 'advISO SOP Writing Guide'
-author = 'advISO'
-copyright = f'{author} & contributors'
+author = 'Cardiff University, Public Health Wales, Wellcome Sanger Institute & University of the Western Cape'
+copyright = f'{date.today().year}, {author}'
 release = '0.2'
 version = '0.2.0'
 
